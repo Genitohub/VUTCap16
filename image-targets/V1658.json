@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 118,
+    "left": 0,
+    "width": 503,
+    "height": 670,
+    "isRotated": true,
+    "originalWidth": 503,
+    "originalHeight": 907
+  },
+  "imagePath": "image-targets/V1658_luminance.jpg",
+  "metadata": null,
+  "name": "V1658",
+  "resources": {
+    "originalImage": "V1658_original.jpg",
+    "croppedImage": "V1658_cropped.jpg",
+    "thumbnailImage": "V1658_thumbnail.jpg",
+    "luminanceImage": "V1658_luminance.jpg"
+  },
+  "created": 1790288013785,
+  "updated": 1790288013785
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 136,
+    "left": 0,
+    "width": 548,
+    "height": 730,
+    "isRotated": true,
+    "originalWidth": 548,
+    "originalHeight": 1003
+  },
+  "imagePath": "image-targets/V1634_luminance.jpg",
+  "metadata": null,
+  "name": "V1634",
+  "resources": {
+    "originalImage": "V1634_original.jpg",
+    "croppedImage": "V1634_cropped.jpg",
+    "thumbnailImage": "V1634_thumbnail.jpg",
+    "luminanceImage": "V1634_luminance.jpg"
+  },
+  "created": 1790286570046,
+  "updated": 1790286570046
+}

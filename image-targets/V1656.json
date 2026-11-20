@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 183,
+    "left": 0,
+    "width": 768,
+    "height": 1024,
+    "isRotated": true,
+    "originalWidth": 768,
+    "originalHeight": 1391
+  },
+  "imagePath": "image-targets/V1656_luminance.jpg",
+  "metadata": null,
+  "name": "V1656",
+  "resources": {
+    "originalImage": "V1656_original.jpg",
+    "croppedImage": "V1656_cropped.jpg",
+    "thumbnailImage": "V1656_thumbnail.jpg",
+    "luminanceImage": "V1656_luminance.jpg"
+  },
+  "created": 1790287653343,
+  "updated": 1790287653343
+}

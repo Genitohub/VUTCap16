@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 126,
+    "left": 0,
+    "width": 513,
+    "height": 684,
+    "isRotated": true,
+    "originalWidth": 513,
+    "originalHeight": 936
+  },
+  "imagePath": "image-targets/V1633_luminance.jpg",
+  "metadata": null,
+  "name": "V1633",
+  "resources": {
+    "originalImage": "V1633_original.jpg",
+    "croppedImage": "V1633_cropped.jpg",
+    "thumbnailImage": "V1633_thumbnail.jpg",
+    "luminanceImage": "V1633_luminance.jpg"
+  },
+  "created": 1790286481584,
+  "updated": 1790286481584
+}

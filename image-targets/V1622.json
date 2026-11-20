@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 2,
+    "left": 0,
+    "width": 896,
+    "height": 1194,
+    "isRotated": true,
+    "originalWidth": 896,
+    "originalHeight": 1200
+  },
+  "imagePath": "image-targets/V1622_luminance.jpg",
+  "metadata": null,
+  "name": "V1622",
+  "resources": {
+    "originalImage": "V1622_original.jpg",
+    "croppedImage": "V1622_cropped.jpg",
+    "thumbnailImage": "V1622_thumbnail.jpg",
+    "luminanceImage": "V1622_luminance.jpg"
+  },
+  "created": 1794942167273,
+  "updated": 1794942167273
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 1,
+    "width": 636,
+    "height": 849,
+    "isRotated": true,
+    "originalWidth": 639,
+    "originalHeight": 849
+  },
+  "imagePath": "image-targets/V1541_luminance.jpg",
+  "metadata": null,
+  "name": "V1541",
+  "resources": {
+    "originalImage": "V1541_original.jpg",
+    "croppedImage": "V1541_cropped.jpg",
+    "thumbnailImage": "V1541_thumbnail.jpg",
+    "luminanceImage": "V1541_luminance.jpg"
+  },
+  "created": 1790370071164,
+  "updated": 1790370071164
+}

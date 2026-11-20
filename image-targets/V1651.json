@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 219,
+    "left": 0,
+    "width": 519,
+    "height": 692,
+    "isRotated": true,
+    "originalWidth": 519,
+    "originalHeight": 1131
+  },
+  "imagePath": "image-targets/V1651_luminance.jpg",
+  "metadata": null,
+  "name": "V1651",
+  "resources": {
+    "originalImage": "V1651_original.jpg",
+    "croppedImage": "V1651_cropped.jpg",
+    "thumbnailImage": "V1651_thumbnail.jpg",
+    "luminanceImage": "V1651_luminance.jpg"
+  },
+  "created": 1790286794130,
+  "updated": 1790286794130
+}

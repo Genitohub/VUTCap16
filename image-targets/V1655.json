@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 90,
+    "width": 549,
+    "height": 733,
+    "isRotated": false,
+    "originalWidth": 730,
+    "originalHeight": 733
+  },
+  "imagePath": "image-targets/V1655_luminance.jpg",
+  "metadata": null,
+  "name": "V1655",
+  "resources": {
+    "originalImage": "V1655_original.jpg",
+    "croppedImage": "V1655_cropped.jpg",
+    "thumbnailImage": "V1655_thumbnail.jpg",
+    "luminanceImage": "V1655_luminance.jpg"
+  },
+  "created": 1790287465453,
+  "updated": 1790287465453
+}

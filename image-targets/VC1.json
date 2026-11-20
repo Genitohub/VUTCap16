@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 137,
+    "left": 0,
+    "width": 597,
+    "height": 796,
+    "isRotated": true,
+    "originalWidth": 597,
+    "originalHeight": 1070
+  },
+  "imagePath": "image-targets/VC1_luminance.jpg",
+  "metadata": null,
+  "name": "VC1",
+  "resources": {
+    "originalImage": "VC1_original.jpg",
+    "croppedImage": "VC1_cropped.jpg",
+    "thumbnailImage": "VC1_thumbnail.jpg",
+    "luminanceImage": "VC1_luminance.jpg"
+  },
+  "created": 1794942668074,
+  "updated": 1794942668074
+}
