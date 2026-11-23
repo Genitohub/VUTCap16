@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 120,
+    "left": 0,
+    "width": 491,
+    "height": 654,
+    "isRotated": true,
+    "originalWidth": 491,
+    "originalHeight": 896
+  },
+  "imagePath": "image-targets/V1523_luminance.jpg",
+  "metadata": null,
+  "name": "V1523",
+  "resources": {
+    "originalImage": "V1523_original.jpg",
+    "croppedImage": "V1523_cropped.jpg",
+    "thumbnailImage": "V1523_thumbnail.jpg",
+    "luminanceImage": "V1523_luminance.jpg"
+  },
+  "created": 1795474102543,
+  "updated": 1795474102543
+}
